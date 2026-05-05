@@ -1,0 +1,14 @@
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/bin/Debug/net8.0/Practice
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/bin/Debug/net8.0/Practice.deps.json
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/bin/Debug/net8.0/Practice.runtimeconfig.json
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/bin/Debug/net8.0/Practice.dll
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/bin/Debug/net8.0/Practice.pdb
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.AssemblyInfoInputs.cache
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.AssemblyInfo.cs
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.csproj.CoreCompileInputs.cache
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.dll
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/refint/Practice.dll
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.pdb
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/Practice.genruntimeconfig.cache
+/Users/anastasiiakravchenko/RiderProjects/Practice/Practice/obj/Debug/net8.0/ref/Practice.dll
