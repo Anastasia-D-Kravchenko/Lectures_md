@@ -65,7 +65,8 @@ def fibonacci():
 print(list(islice(fibonacci(), 10)))
 
 # Task 8. Using reduce, compute the product of all elements in [1, 2, 3, 4, 5].
-from functools import reduce
+from functools import reduce, singledispatch
+
 print(reduce(lambda x, y: x*y, [1, 2, 3, 4, 5]))
 
 def simple_generator():
@@ -189,3 +190,16 @@ else:
     print("No division by zero!")
 finally:
     print("This will always run")
+
+@singledispatch
+def process(data):
+    print(f"Processing {data}...")
+@process.register(str)
+def _(data: str):
+    print(f"Processing string: {data}")
+@process.register(int)
+def _(data: int):
+    print(f"Processing integer: {data}")
+process("hello")
+process(21)
+process([1, "a"])
