@@ -2776,7 +2776,7 @@ static class Part45_ThreeLayers
 static class Part46_SqlConnection
 {
     // TASK 46-A: Anatomy of a connection string — label each segment:
-    //   "Server=localhost;Database=MyAppDb;User Id=sa;Password=MyPassword123;TrustServerCertificate=True"
+    //   "Server=localhost;Database=MyAppDb;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=True"
     //
     //   Server               → Specifies the network address or hostname (and optionally the instance name/port) of the SQL Server.
     //   Database             → Specifies the name of the specific database on the server you want to connect to.
